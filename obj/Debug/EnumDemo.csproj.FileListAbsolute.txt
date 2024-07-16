@@ -1,0 +1,7 @@
+C:\Users\roshani.poojari\Desktop\Training\EnumDemo\bin\Debug\EnumDemo.exe.config
+C:\Users\roshani.poojari\Desktop\Training\EnumDemo\bin\Debug\EnumDemo.exe
+C:\Users\roshani.poojari\Desktop\Training\EnumDemo\bin\Debug\EnumDemo.pdb
+C:\Users\roshani.poojari\Desktop\Training\EnumDemo\obj\Debug\EnumDemo.csproj.AssemblyReference.cache
+C:\Users\roshani.poojari\Desktop\Training\EnumDemo\obj\Debug\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\EnumDemo\obj\Debug\EnumDemo.exe
+C:\Users\roshani.poojari\Desktop\Training\EnumDemo\obj\Debug\EnumDemo.pdb
